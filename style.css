@@ -1,0 +1,59 @@
+
+body, h1, h2, h3, h4, h5, h6, p, ul, li, blockquote {
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-color: #f7f7f7;
+    color: #333;
+  }
+  
+  header {
+    background-color: #304FFE; 
+    color: white;
+    padding: 20px;
+  }
+  
+  nav {
+    background-color: #C6FF00; 
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    text-align: center;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  nav ul li a:hover {
+    text-decoration: underline;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  footer {
+    background-color: #FF6D00; 
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
+  
+
+  form {
+    margin-top: 20px;
+  }
+  
